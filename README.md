@@ -1,4 +1,4 @@
-### Olá, eu sou Arthur 😁
+### Olá, eu sou Arthur! 😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://br.linkedin.com/in/arthurrats)
@@ -13,4 +13,6 @@
   <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img aling="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
   <img aling="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</div>
+</div><br>
+
+Email: joserats8@gmail.com
