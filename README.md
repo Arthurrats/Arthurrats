@@ -1,5 +1,7 @@
 ### Olá, eu sou Arthur! 😁
 
+Estagiando em Engenharia de Dados na Compass UOL. Tenho experiências sólida em banco de dados, modelagem e tratamento de exceções, modelos relacionais e dimensionais, ETL e ELT. Também possuo habilidade em serviços da AWS (Glue, Athena, Lambda, S3). Ademais, tenho experiência em Python, Docker e Pyspark. 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://br.linkedin.com/in/arthurrats)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserats8@gmail.com)
@@ -12,7 +14,7 @@
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias utilizadas no dia a dia 
 
 <div style="display: inline-block;"><br>
   <img aling="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
