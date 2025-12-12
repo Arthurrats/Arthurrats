@@ -1,7 +1,7 @@
 # 💻 Arthur - Engenheiro de Dados
 
 Seja bem-vindo(a) ao meu GitHub! 👋
-Acompanhe alguns projetos, aprendizados e soluções focadas em **Engenharia de Dados**, **Cloud Computing (AWS)** e desenvolvimento de soluções de back-end relacionadas a dados.
+Acompanhe alguns projetos, aprendizados e soluções focadas em **Engenharia de Dados**, **Cloud Computing (AWS)** e desenvolvimento de soluções relacionadas a dados.
 
 ---
 
@@ -16,8 +16,6 @@ Minhas experiências e conhecimentos abrangem:
 * **Processamento de Dados:** Sólida experiência com **Python** e **PySpark** para transformação e análise.
 * **Cloud Computing (AWS):** Habilidade em serviços como **Glue**, **Athena**, **Lambda** e **S3**.
 * **Containers:** Uso de **Docker** para padronização de ambientes.
-
-Se você também trabalha na área de dados ou está em busca de um networking estratégico, ficarei feliz em conectar e trocar ideias sobre as melhores práticas e inovações no campo da Engenharia de Dados!
 
 ---
 
