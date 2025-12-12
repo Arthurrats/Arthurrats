@@ -1,27 +1,42 @@
-### Olá, eu sou Arthur! 😁
+# 💻 Arthur - Engenheiro de Dados
 
-Estagiando em Engenharia de Dados na Compass UOL. Tenho experiências sólida em banco de dados, modelagem e tratamento de exceções, modelos relacionais e dimensionais, ETL e ELT. Também possuo habilidade em serviços da AWS (Glue, Athena, Lambda, S3). Ademais, tenho experiência em Python, Docker e Pyspark. 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://br.linkedin.com/in/arthurrats)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserats8@gmail.com)
+Seja bem-vindo(a) ao meu GitHub! 👋
+Acompanhe alguns projetos, aprendizados e soluções focadas em **Engenharia de Dados**, **Cloud Computing (AWS)** e desenvolvimento de soluções de back-end relacionadas a dados.
 
 ---
 
-## 📊 Status e Atividade no GitHub
+## 🔎 Sobre Mim
 
-[![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurrats&show_icons=true&theme=dracula&layout=compact)](https://github.com/Arthurrats)
+Olá! Sou Arthur e sou **Engenheiro de Dados** com experiência sólida na área de dados.
+
+Atualmente, desenvolvo minhas habilidades em **Engenharia de Dados**, **Big Data**, **AWS**, **ETL/ELT** e outras tecnologias essenciais para a manipulação, modelagem e processamento de dados em larga escala.
+
+Minhas experiências e conhecimentos abrangem:
+* **Banco de Dados:** Modelagem (Relacional e Dimensional), Tratamento de Exceções.
+* **Processamento de Dados:** Sólida experiência com **Python** e **PySpark** para transformação e análise.
+* **Cloud Computing (AWS):** Habilidade em serviços como **Glue**, **Athena**, **Lambda** e **S3**.
+* **Containers:** Uso de **Docker** para padronização de ambientes.
+
+Se você também trabalha na área de dados ou está em busca de um networking estratégico, ficarei feliz em conectar e trocar ideias sobre as melhores práticas e inovações no campo da Engenharia de Dados!
 
 ---
 
-## 💻 Tecnologias utilizadas no dia a dia 
+## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline-block;"><br>
-  <img aling="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img aling="center" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img aling="center" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img aling="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img aling="center" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark">
-</div><br>
+Estas são as principais ferramentas que utilizo no meu dia a dia em projetos de dados:
 
-**Contato:** joserats8@gmail.com
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+</div>
+
+---
+
+## 📧 Entre em Contato Comigo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrats)
+[![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arthurrats/COMPASSUOL)
